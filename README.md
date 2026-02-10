@@ -22,4 +22,4 @@ go build -o notely && ./notely
 
 You do *not* need to set up a database or any interactivity on the webpage yet. Instructions for that will come later in the course!
 
-"Wood's verson of boot.ves's notly app" fuck this so much 
+"Wood's verson of boot.ves's notly app" I think I pushed it to the wrong branch sorry
